@@ -1,9 +1,16 @@
 # Lecture 1
-Work to turn in based on Lecture 1 of CYBR 2980
+- Overview of the course
+- Look at how computers work
+- Data representation
+- Scripting vs. Compiled Languages
+- Command Line Python
 
-## Setup GitHub
-- Create an account on GitHub
+```
+>>> print("Hello Python")
 
-## Clone a repository from GitHub
-- In Atom, press Shift + Ctrl + P
-- Type Clone in the search bar
+>>> print(2 + 3)
+
+>>> print("Hello" + "world")
+
+>>> print("Hello" + 5)
+```
