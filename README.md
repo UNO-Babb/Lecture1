@@ -2,7 +2,7 @@
 ### Overview of the course
 
 ### Computer Hardware
-![Von Neumann Architecture](https://commons.wikimedia.org/wiki/File:Von_Neumann_Architecture.svg)
+![Von Neumann Architecture](https://upload.wikimedia.org/wikipedia/commons/e/e5/Von_Neumann_Architecture.svg)
 
 ### Data representation
   - Binary Numbers
