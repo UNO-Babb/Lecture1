@@ -24,5 +24,5 @@
 
 ---
 ### Resources
-Kapooht [CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)]
-Code.org (https://curriculum.code.org/csp-19/unit1/5/)
+Kapooht [CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)]  
+Code.org (https://curriculum.code.org/csp-19/unit1/5/)  
