@@ -132,7 +132,6 @@ help> quit
   python: can't open file 'test.py': [Errno 2] No such file or directory
 ```
   What might be the problem (select all that apply):
-
 	- Python may not be installed on this computer
 	+ test.py may not exist in this directory... change directories using CD command
 	+ test.py may exist but may be capitalized ie TEST.py
