@@ -1,6 +1,6 @@
 # Lecture 1
 ## Overview of the course
-  - Link to syllabus
+  - (Syllabus)[CYBR 2980 Syllabus - Python Programming.docx]
 ## Computer Hardware
 ![Von Neumann Architecture](https://upload.wikimedia.org/wikipedia/commons/e/e5/Von_Neumann_Architecture.svg)
 
