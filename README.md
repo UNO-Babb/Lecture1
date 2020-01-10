@@ -1,15 +1,33 @@
 # Lecture 1
 ## Overview of the course
-  - (Syllabus)[CYBR 2980 Syllabus - Python Programming.docx]
-## Computer Hardware
+  - [Syllabus](CYBR%202980%20Syllabus%20-%20Python%20Programming.docx)
+
+### Computer Hardware
 ![Von Neumann Architecture](https://upload.wikimedia.org/wikipedia/commons/e/e5/Von_Neumann_Architecture.svg)
 
 ### Data representation
   - Binary Numbers
-  - (Flippy-Do)[https://drive.google.com/file/d/0B6iNirqJ5EuVVTlla0RpR2RIa2s/view?usp=sharing]
-  - (Binary Game)[https://studio.code.org/projects/applab/iukLbcDnzqgoxuu810unLw]
+  - [Flippy-Do](https://drive.google.com/file/d/0B6iNirqJ5EuVVTlla0RpR2RIa2s/view?usp=sharing)
+  - [Binary Game](https://studio.code.org/projects/applab/iukLbcDnzqgoxuu810unLw)
 
 ### Scripting vs. Compiled Languages
+#### Compiled Languages
+- Written with strict syntax in high-level language
+- Converted to machine code by the compiler
+  - All lines are evaluated
+  - Syntax errors are flagged by compiler
+- Compiled program is what actually runs
+- Used for major applications
+- Source code is not needed for execution
+
+#### Scripting Languages
+- Written with strict syntax in high-level language
+- Each line is converted to machine code as it runs
+  - Syntax errors are not flagged until the individual line is executed
+  - Conversion as you go is slower than converting ahead of time
+- Easier to begin a program
+- Used for automation and simple tasks
+- Source code is needed to run
 
 ### Command Line Python
 We will use a IDE (Integrated Development Environment) in this class. However, with python, you can type commands directly into a command line and they will execute. This is useful if you have a small script that you want to run or a bit of code you want to test outside of a larger program.
@@ -101,9 +119,9 @@ help> quit
 	print("Hello world')
 ```
   - Print should be capitalized
-	- Parenthesis are not needed
-	- Single-quotes may not be used in print statements
-	+ Single-quotes and double-quotes cannot be paired
+  - Parenthesis are not needed
+  - Single-quotes may not be used in print statements
+  + Single-quotes and double-quotes cannot be paired
 
 1. At the command prompt, I typed the following command:
 ```
@@ -121,7 +139,7 @@ help> quit
 	- test.py is run but has a bug in the code
 
 ### For next class
-- Sign up for a (GitHub)[https://github.com] account
+- Sign up for a [GitHub](https://github.com) account
 ---
 ### Resources
 Kapooht [CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)]  
