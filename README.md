@@ -47,7 +47,7 @@ To start, type python in the command prompt.
 ```
 ### Running Python from a file
 Create a file using any text editor. Notepad or Notepad++ are installed on your computer and will work fine. Here is an example file.
-(Hello.py)[Hello.py]
+[Hello.py](Hello.py)
 
 After creating the file, save it on your desktop. In your command line, change directory to the desktop by typing the following commands.
 
