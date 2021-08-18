@@ -1,6 +1,6 @@
 # Lecture 1
 ## Overview of the course
-  - [Syllabus](CYBR%202980%20Syllabus%20-%20Python%20Programming.docx)
+  - [Syllabus](CIST%201600%20Syllabus%20-%20Python%20Programming.docx)
 
 ### Computer Hardware
 ![Von Neumann Architecture](https://upload.wikimedia.org/wikipedia/commons/e/e5/Von_Neumann_Architecture.svg)
