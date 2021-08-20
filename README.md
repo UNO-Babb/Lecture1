@@ -85,7 +85,7 @@ help> quit
 ```
 ### Quiz
 1. Convert the following decimal number to binary
-	- 22
+  - 22
 
 1. Convert the following binary to decimal
   - 00011011
