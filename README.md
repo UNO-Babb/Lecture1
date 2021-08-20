@@ -87,10 +87,10 @@ help> quit
 1. Convert the following decimal number to binary
   - 22
 
-1. Convert the following binary to decimal
+2. Convert the following binary to decimal
   - 00011011
 
-1. Which of the following would be considered an "input device" (Select all that apply)
+3. Which of the following would be considered an "input device" (Select all that apply)
 	+ Keyboard
 	- Printer
 	+ Microphone
@@ -99,7 +99,7 @@ help> quit
 	+ Bluetooth Antenna
 	+ Touchscreen
 
-1. Which of the following would be considered an "output device" (Select all that apply)
+4. Which of the following would be considered an "output device" (Select all that apply)
 	- Keyboard
 	+ Printer
 	- Microphone
@@ -108,13 +108,13 @@ help> quit
 	+ Bluetooth Antenna
 	+ Touchscreen
 
-1. Using command line help, what does ord do in python
+5. Using command line help, what does ord do in python
 	+ Return the Unicode point for a one-character string
 	- Give you the shortest route to the Airport
 	- Calculate the value of an algebraic function
 	- Return the letter given a numeric value
 
-1. Identify the bug in the following line of code?
+6. Identify the bug in the following line of code?
 ```
 	print("Hello world')
 ```
@@ -123,7 +123,7 @@ help> quit
   - Single-quotes may not be used in print statements
   + Single-quotes and double-quotes cannot be paired
 
-1. At the command prompt, I typed the following command:
+7. At the command prompt, I typed the following command:
 ```
   C:\Users\UNOStudent> python test.py
 ```
@@ -132,7 +132,7 @@ help> quit
   python: can't open file 'test.py': [Errno 2] No such file or directory
 ```
 
-What might be the problem (select all that apply):  
+8. What might be the problem (select all that apply):  
 	- Python may not be installed on this computer
 	+ test.py may not exist in this directory... change directories using CD command
 	+ test.py may exist but may be capitalized i.e. **TEST.py**
