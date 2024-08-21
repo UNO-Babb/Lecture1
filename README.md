@@ -140,7 +140,6 @@ help> quit
 
 ### For next class
 - Sign up for a [GitHub](https://github.com) account
-- Sign up for a [Repl.it](https://repl.it/) account
 ---
 ### Resources
 Kapooht [CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)]  
