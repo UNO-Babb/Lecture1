@@ -8,7 +8,7 @@
 ### Data representation
   - Binary Numbers
   - [Flippy-Do](https://drive.google.com/file/d/0B6iNirqJ5EuVVTlla0RpR2RIa2s/view?usp=sharing)
-  - [Binary Game](https://studio.code.org/projects/applab/iukLbcDnzqgoxuu810unLw)
+  - [Binary Game](https://learningnetwork.cisco.com/s/binary-game)
 
 ### Scripting vs. Compiled Languages
 #### Compiled Languages
